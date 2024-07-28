@@ -1,2 +1,4 @@
 This is the test message of Github.
 Hello world.
+git add
+git commit
